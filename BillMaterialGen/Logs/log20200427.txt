@@ -1,0 +1,6 @@
+2020-04-27 08:36:02.733 +01:00 [INF] Please enter position X, position Y, Width and Height for Rectangle
+2020-04-27 08:36:08.373 +01:00 [INF] Please enter position X, position Y and Width for Square
+2020-04-27 08:36:10.509 +01:00 [INF] Please enter position X, position Y, horizontal diameter and vertical diameter for Ellipse
+2020-04-27 08:36:11.189 +01:00 [INF] Please enter position X, position Y and horizontal diameter for Circle
+2020-04-27 08:36:11.749 +01:00 [INF] Please enter position X, position Y, Width, Height and Text for Textbox
+2020-04-27 08:36:13.104 +01:00 [DBG] Invalid parameter value of PositionX: [-10] for shape: Rectangle
